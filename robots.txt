@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://suranyami.github.io/sitemap.xml 
